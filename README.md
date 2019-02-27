@@ -46,6 +46,4 @@ npm run make
 ```
 This command will take some time to run. Once it finishes check the ```./out/make``` folder within the project folder.it  will have a Windows installer for the desktop application.
 
-Boom
-
-The out/make folder 
+Boom...
